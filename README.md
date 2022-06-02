@@ -1,13 +1,47 @@
-### Hi! 👋 This is Claudia Xiaoli Tang. 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/claudia-xiaoli-tang/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/claudiatang">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="dotnet Badge"/>
+  </a>
+</div>
+### Hi! 👋 This is Claudia Xiaoli Tang.
 
-I am based in Melbourne, Australia, and currently a Bachelor of Cyber Security Student at Deakin University
+I am based in Melbourne Australia, and currently studying Bachelor of Cyber Security at Deakin University
 
-### :black_nib: I am learning ...
+### :black_nib: Subject topics I am learning ...
 
 - Computer System
 - Secure Networking
 - Cyber Security Analytics
 - Object Oriented Programming
+
+### :wrench: Tools I am working with ...
+
+<div id="badges">
+  <a href="">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/scapy-43B02A?style=for-the-badge&logo=Scapy&logoColor=white" alt="Scapy Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white" alt="kali-linux Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white" alt="wireshark Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="Csharp Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet Badge"/>
+  </a>
+</div>
 
 <!--
 **claudiatang/claudiatang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
