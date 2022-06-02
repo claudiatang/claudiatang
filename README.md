@@ -1,3 +1,4 @@
+![](https://github.com/claudiatang/claudiatang/blob/92b74925c4c0294c84e7877cd360fc0afd2906f5/github_banner.png)
 <div id="badges">
   <a href="https://www.linkedin.com/in/claudia-xiaoli-tang/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
