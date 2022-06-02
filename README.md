@@ -1,6 +1,6 @@
-### Hi! 👋
+### Hi! 👋 This is Claudia Xiaoli Tang. 
 
-I am Claudia Xiaoli Tang. I am based in Melbourne, Australia, and currently a Bachelor of Cyber Security Student at Deakin University
+I am based in Melbourne, Australia, and currently a Bachelor of Cyber Security Student at Deakin University
 
 ### :black_nib: I am learning ...
 
