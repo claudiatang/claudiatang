@@ -8,7 +8,7 @@
   </a>
 </div>
 
-### Hi! 👋 This is Claudia Xiaoli Tang.
+<!-- ### Hi! 👋 This is Claudia Xiaoli Tang. -->
 
 I am based in Melbourne Australia, and currently studying Bachelor of Cyber Security at Deakin University
 
