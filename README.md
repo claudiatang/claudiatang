@@ -16,7 +16,7 @@ I am based in Melbourne Australia, and currently studying Bachelor of Cyber Secu
 
 - Computer System
 - Secure Networking (python network programming)
-- Cyber Security Analytics (using python ML models)
+- Cyber Security Analytics (python ML models)
 - Object Oriented Programming (C#)
 
 ### :wrench: Tools I am working with ...
