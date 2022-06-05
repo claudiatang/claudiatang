@@ -12,12 +12,12 @@
 
 I am based in Melbourne Australia, and currently studying Bachelor of Cyber Security at Deakin University
 
-### :black_nib: Subject topics I am learning ...
+### :black_nib: Subjects I am currently learning ...
 
 - Computer System
-- Secure Networking
-- Cyber Security Analytics
-- Object Oriented Programming
+- Secure Networking (python network programming)
+- Cyber Security Analytics (python ML models)
+- Object Oriented Programming (C#)
 
 ### :wrench: Tools I am working with ...
 
