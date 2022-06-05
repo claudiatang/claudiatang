@@ -45,11 +45,9 @@ I am based in Melbourne Australia, and currently studying Bachelor of Cyber Secu
   </a>
 </div>
 
-
-
 <!--
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiatang&layout=compact&theme=onedark&exclude_repo=claudiatang,cryptography_space,)](https://github.com/claudiatang)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiatang&layout=compact&theme=onedark&exclude_repo=claudiatang,cryptography_space)](https://github.com/claudiatang)
 
 ![Claudia Tang's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudiatang&count_private=true)
 
