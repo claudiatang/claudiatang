@@ -45,7 +45,14 @@ I am based in Melbourne Australia, and currently studying Bachelor of Cyber Secu
   </a>
 </div>
 
+
+
 <!--
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiatang&layout=compact&theme=onedark&exclude_repo=claudiatang,cryptography_space,)](https://github.com/claudiatang)
+
+![Claudia Tang's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudiatang&count_private=true)
+
 **claudiatang/claudiatang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
