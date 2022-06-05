@@ -44,6 +44,9 @@ I am based in Melbourne Australia, and currently studying Bachelor of Cyber Secu
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet Badge"/>
   </a>
 </div>
+ 
+### 💻 Languages I use the most ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiatang&layout=compact&theme=tokyonight&hide_border=true&hide_title=true)](https://github.com/claudiatang)
 
 <!--
 
