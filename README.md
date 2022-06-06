@@ -16,7 +16,7 @@ I am based in Melbourne Australia, and currently studying Bachelor of Cyber Secu
 
 - Computer System
 - Secure Networking (python network programming)
-- Cyber Security Analytics (python ML models)
+- Cyber Security Analytics (python ML)
 - Object Oriented Programming (C#)
 
 ### :wrench: Tools I am working with ...
@@ -45,7 +45,7 @@ I am based in Melbourne Australia, and currently studying Bachelor of Cyber Secu
   </a>
 </div>
  
-### 💻 Languages I use the most ...
+### 💻 Languages and tools I am using ...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiatang&layout=compact&theme=tokyonight&hide_border=true&hide_title=true)](https://github.com/claudiatang)
 
 <!--
