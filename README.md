@@ -23,9 +23,6 @@ I am based in Melbourne Australia, and currently studying Bachelor of Cyber Secu
 
 <div id="badges">
   <a href="">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp Badge"/>
-  </a>
-  <a href="">
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python Badge"/>
   </a>
   <a href="">
@@ -36,6 +33,9 @@ I am based in Melbourne Australia, and currently studying Bachelor of Cyber Secu
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white" alt="wireshark Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp Badge"/>
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="Csharp Badge"/>
