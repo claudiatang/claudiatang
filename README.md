@@ -26,10 +26,13 @@ I am based in Melbourne Australia, and currently studying Bachelor of Cyber Secu
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python Badge"/>
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/scapy-43B02A?style=for-the-badge&logo=Scapy&logoColor=white" alt="Scapy Badge"/>
+    <img src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white" alt="kali-linux Badge"/>
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white" alt="kali-linux Badge"/>
+    <img src="https://img.shields.io/badge/metasploit-00599C?style=for-the-badge&logo=metasploit&logoColor=white" alt="metasploit Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="metasploit Badge"/>
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white" alt="wireshark Badge"/>
