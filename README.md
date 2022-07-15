@@ -14,10 +14,10 @@ I am based in Melbourne Australia, and currently studying Bachelor of Cyber Secu
 
 ### :black_nib: Subjects I am currently learning ...
 
-- Computer System
-- Secure Networking (python network programming)
-- Cyber Security Analytics (python ML)
-- Object Oriented Programming (C#)
+- Digital Forensics
+- Networking Socket Programming (python, C++)
+- Ethical Hacking
+- Secure Software Development
 
 ### :wrench: Languages and tools I am working with ...
 
